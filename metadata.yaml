@@ -1,0 +1,23 @@
+_repo: Railroad-Reorganization_55397
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daggett, Stuart
+    birthdate: 1881
+    deathdate: 1954
+    gutenberg_agent_id: '45016'
+    url: http://www.gutenberg.org/2009/agents/45016
+    wikipedia: http://texts.cdlib.org/view?docId=hb0w10035d&doc.view=frames&chunk.id=div00016&toc.depth=1&toc.id=
+description: ''
+gutenberg_issued: '2017-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Railroad Reorganization
+url: http://www.gutenberg.org/ebooks/55397
