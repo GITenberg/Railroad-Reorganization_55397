@@ -1,5 +1,8 @@
 _repo: Railroad-Reorganization_55397
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55397-h/images/cover.jpg
 creator:
   author:
     agent_name: Daggett, Stuart
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/45016
     wikipedia: http://texts.cdlib.org/view?docId=hb0w10035d&doc.view=frames&chunk.id=div00016&toc.depth=1&toc.id=
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55397#Railroad-Reorganization
 gutenberg_issued: '2017-08-21'
 gutenberg_type: Text
 identifiers:
